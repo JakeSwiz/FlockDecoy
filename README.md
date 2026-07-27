@@ -2,6 +2,8 @@
 
 Fake-Flock signal decoy for testing detection rigs without driving to a real ALPR pole. Runs on any classic ESP32 (tested on ESP32-WROVER-E) or on an ESP32-C5 (tested on ESP32-C5-DevKitC-1, rev v1.2). Built to validate [WatchFlock](https://github.com/0xXyc/WatchFlock) firmware and the [SwizFlockHunter](https://github.com/0xXyc/SwizFlockHunter) Flipper companion.
 
+<img width="1277" height="1832" alt="Screenshot 2026-07-25 at 1 20 50 PM" src="https://github.com/user-attachments/assets/028bb038-dc1f-4e9e-b861-85678688c536" />
+
 ## What it spoofs
 
 Cycles through multiple fake identities on both radios in parallel.
