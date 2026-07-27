@@ -4,3 +4,4 @@ build/
 *.map
 *.hex
 .DS_Store
+.claude
